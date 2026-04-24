@@ -1,8 +1,5 @@
-# Self-Pruning Neural Network — Tredence Case Study
 
-> **AI Engineering Intern Case Study | 2025 Cohort**
-
-A neural network that **learns to prune itself during training** using learnable gate parameters and L1 sparsity regularisation. Built from scratch on PyTorch for CIFAR-10 image classification.
+**A neural network that **learns to prune itself during training** using learnable gate parameters and L1 sparsity regularisation. Built from scratch on PyTorch for CIFAR-10 image classification.
 
 ---
 
