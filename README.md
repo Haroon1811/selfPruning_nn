@@ -56,6 +56,7 @@ Outputs are saved to `./outputs/`:
 ├── requirements.txt     # Dependencies
 └── outputs/             # Auto-created at runtime
 ```
+the outputs file will be uploaded as soon as the local system runs the program and returns the outputs.
 
 ---
 
@@ -82,4 +83,3 @@ See `REPORT.md` for full analysis.
 
 ---
 
-*Submitted for the Tredence Studio — AI Agents Engineering Team.*
